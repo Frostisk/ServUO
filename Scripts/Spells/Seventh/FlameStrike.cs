@@ -40,7 +40,7 @@ namespace Server.Spells.Seventh
 
                 if (m != null)
                 {
-                    m.FixedParticles(0x3709, 10, 30, 5052, EffectLayer.LeftFoot);
+                    m.FixedParticles(0x3822, 10, 30, 5052, EffectLayer.LeftFoot);
                     m.PlaySound(0x208);
                 }
 
